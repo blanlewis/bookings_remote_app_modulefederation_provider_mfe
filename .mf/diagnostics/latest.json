@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"\\\"C:\\\\\\\\Program Files\\\\\\\\nodejs\\\\\\\\node.exe\\\" C:\\\\Complete-Learning\\\\microfrontend-learning\\\\bookings_remote_app_modulefederation_provider_mfe\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project C:\\\\Complete-Learning\\\\microfrontend-learning\\\\bookings_remote_app_modulefederation_provider_mfe\\\\node_modules\\\\.federation\\\\tsconfig.5a337d1321c829aa3bfcaf44e01a81be.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" C:\\Complete-Learning\\microfrontend-learning\\bookings_remote_app_modulefederation_provider_mfe\\node_modules\\typescript\\bin\\tsc --project C:\\Complete-Learning\\microfrontend-learning\\bookings_remote_app_modulefederation_provider_mfe\\node_modules\\.federation\\tsconfig.5a337d1321c829aa3bfcaf44e01a81be.json"
+    },
+    "timestamp": 1792062157221
+  }
+}
